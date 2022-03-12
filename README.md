@@ -1,8 +1,6 @@
 # Railway Deployer
 
-<p align="center">
-  <a href="https://railway.app/new/template?code=FQTjAJ&referralCode=notreallyshikhar"><img src="https://railway.app/button.svg" width="400"/></a>
-</p>
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?code=K57sIe&referralCode=aJp2Nm)
 
 
 ## 🖇 A detailed guide:
